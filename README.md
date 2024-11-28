@@ -1,5 +1,5 @@
 # jsprj3# Project Title 
-The name of the Project and all authors involved
+TODO-lista, Paavo Koivistoinen
 
 ## Demo link:
 Access my site at [google.com](https://google.com)
