@@ -40,6 +40,4 @@ Käytin tehtävässä w3schoolsin jquery-kirjastoa ja tekoälyä ChatGPT virheid
 - [w3schools](https://www.w3schools.com/jquery/jquery_examples.asp)
 
 ## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
 Example: MIT license @ [paaavooo](LICENSE)
