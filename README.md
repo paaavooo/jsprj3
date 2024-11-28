@@ -5,7 +5,7 @@ TODO-lista, Paavo Koivistoinen
 Access my site at [google.com](https://google.com)
 
 ## How was the workload divided
-How was the workload divided. Who did what? 
+Tein itse vanhan sovelluksen pohjalta
 
 
 
@@ -21,32 +21,23 @@ How was the workload divided. Who did what?
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+TODO-lista on paranneltu versio edellisestä projektista, missä käyttäjä voi lisätä tehtävälistalle asioita mitä hoitaa, ja merkitä niitä tehdyiksi kun ne on saatu tehtyä. Tehtäviä voi nyt liikutella ylös ja alas listalla, ja se sisällyttää hienohkoa animointia tehtäviä lisätessä ja poistattaessa nyt.
 
-## Screenshots
-Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+## Screenshots 
+![kuva](todov2.png)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies
-Describe which technologies were used and the role of each in your project. 
-I used the following technologies `html`, `css`, ...
+Käytin tässä HTML, CSS ja JavaScriptiä (jQuery)
 
 ## Setup
-Write brief instructions on how to run and use your app. For example:
-- download all the files and open index.html in your browser
-- download or clone the repository
-- run `npm install`
-- ...
-
+Voit joko avata linkin ylhäällä olevassa demo-kohdassa, tai ladata tiedostot koneellesi kansioon, ja avata index.html tiedoston selaimessa tai ajamalla ohjelman valitsemassasi koodin muokkaus ohelmassa, kuten VisualStudio Code. Live Server lisäosa VS Codessa on esimerkiksi hyvä tapa avata ohjelma.
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+Sovellus on valmis ja julkaistu
 
 ## Credits
-List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+Käytin tehtävässä w3schoolsin jquery-kirjastoa ja tekoälyä ChatGPT virheiden korjaamiseen ja ideoimiseen.
+- [w3schools](https://www.w3schools.com/jquery/jquery_examples.asp)
 
 ## License
 Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
