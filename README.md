@@ -2,7 +2,7 @@
 TODO-lista, Paavo Koivistoinen
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Sivulle pääsee tästä [todolistav2](https://todolistav2.netlify.app)
 
 ## How was the workload divided
 Tein itse vanhan sovelluksen pohjalta
@@ -42,4 +42,4 @@ Käytin tehtävässä w3schoolsin jquery-kirjastoa ja tekoälyä ChatGPT virheid
 ## License
 Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
-Example: MIT license @ [author](author.com)
+Example: MIT license @ [paaavooo](LICENSE)
